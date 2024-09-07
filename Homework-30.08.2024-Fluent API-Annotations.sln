@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-30.08.2024-Fluent API-Annotations", "Homework-30.08.2024-Fluent API-Annotations\Homework-30.08.2024-Fluent API-Annotations.csproj", "{00199718-9AD7-4D4F-AFE0-3EFF9FCC946E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00199718-9AD7-4D4F-AFE0-3EFF9FCC946E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00199718-9AD7-4D4F-AFE0-3EFF9FCC946E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00199718-9AD7-4D4F-AFE0-3EFF9FCC946E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00199718-9AD7-4D4F-AFE0-3EFF9FCC946E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1ADE3A-8ABD-4B67-A719-DEAED8A3A583}
+	EndGlobalSection
+EndGlobal
